@@ -8,7 +8,7 @@
 
   This is a fully responsive website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://disneyplusclonee.netlify.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://abhijeet1681.github.io/shopping-list/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
